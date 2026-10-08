@@ -1,5 +1,0 @@
-/* Website-specific refinements; original Read Only styling remains intact. */
-.publication-list li { margin-bottom: 1.35em; line-height: 1.8; }
-.publication-list small { display:block; color:#777; }
-#two .features article .image img { object-fit: cover; }
-#header .image.avatar img { object-fit: cover; }
